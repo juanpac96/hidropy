@@ -77,8 +77,12 @@ def evaplib():
 
 
 # Load meteolib and scientific python modules
-import meteolib
+
 import scipy
+import sys
+sys.path.insert(0,'/hidropy/hidropy/meteolib')
+import meteolib
+
 
 
 def ra(z=float, \
