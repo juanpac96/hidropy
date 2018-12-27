@@ -80,7 +80,7 @@ def evaplib():
 
 import scipy
 import sys
-sys.path.insert(0,'/hidropy/hidropy/meteolib')
+sys.path.insert(0,'./hidropy/meteolib')
 import meteolib
 
 
