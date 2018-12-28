@@ -1,21 +1,21 @@
 # -*- coding: utf-8 -*-
-'''
-A library of miscellaneous functions for meteorological data processing.
+# Make a help entry for this library
+def meteodays():
+    '''
+    A library of miscellaneous functions for meteorological data processing.
     
-Miscellaneous functions
------------------------
-
+    Miscellaneous functions
+    -----------------------
     - event2time: Convert (event) based measurements into equidistant\
     time spaced data for a selected interval
     - date2doy: Calculates day of year from day, month and year data.
-
-The module requires and imports scipy and datetime modules.
-Tested for compatibility with Python 2.7.3.
-
-Function descriptions
-=====================
-
-'''
+    
+    The module requires and imports scipy and datetime modules
+    Tested for compatibility with Python 2.7.3. and 3.6
+    
+    Function descriptions
+    =====================
+    '''
 
 __author__ = "Maarten J. Waterloo <maarten.waterloo@acaciawater.com> and J. Delsman"
 __version__ = "1.0"
