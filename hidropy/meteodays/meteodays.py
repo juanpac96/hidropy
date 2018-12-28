@@ -17,8 +17,7 @@ Function descriptions
 
 '''
 
-__author__ = "Maarten J. Waterloo <maarten.waterloo@acaciawater.com> and\
- J. Delsman"
+__author__ = "Maarten J. Waterloo <maarten.waterloo@acaciawater.com> and J. Delsman"
 __version__ = "1.0"
 __release__ = "1.0.1"
 __date__ = "November 2014"
