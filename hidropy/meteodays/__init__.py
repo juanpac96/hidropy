@@ -1,1 +1,1 @@
-from .meteodays import meteodays
+from .meteodays import *
